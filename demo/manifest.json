@@ -1,0 +1,21 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "demo geometría",
+		"description": "demo",
+		"uuid": "ab8e4e2a-86ba-52d3-e86e-ac274b602a79",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Nefasque"]
+	},
+	"modules": [
+		{
+			"description": "test",
+			"type": "resources",
+			"uuid": "77f36153-61ff-17b7-ef65-c579cde56e59",
+			"version": [1, 0, 0]
+		}
+	]
+}
