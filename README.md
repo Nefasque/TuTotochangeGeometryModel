@@ -1,5 +1,7 @@
 # Como cambiar el modelo de geometría.json MC-Bedrock
 
+> En este mismo repo en la carpeta `demo` esta el paquete de recurso de ejemplo
+
 ## 1. Crear Modelo
 
 > IMPORTANTE <br>
