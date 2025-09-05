@@ -111,7 +111,7 @@ jugador
 para solucionar esto hay que crear otro archivo attachable
 ara el modelo de la armadura sobre el jugador. 
 
-creamos el `iron_helmet.attachable.json` en la carpeta en la `My_custom_texture\attachables`
+creamos el `iron_helmet_player.attachable.json` en la carpeta en la `My_custom_texture\attachables`
 
 con el siguiente contenido 
 
@@ -140,6 +140,7 @@ con el siguiente contenido
 ```
 
 resalta el `indetifier` cambio a 
+
 ```json
 //...
 "description": {
